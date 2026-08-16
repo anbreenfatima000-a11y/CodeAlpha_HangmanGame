@@ -86,7 +86,7 @@ This project was completed as part of the **CodeAlpha Python Programming Interns
 
 **Anbreen Fatima**
 
-BS Information Technology
+BS Information Technology Student
 Python Programming Intern — CodeAlpha
 
 
